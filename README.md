@@ -24,7 +24,9 @@
 <a href="https://fb.com/https://m.facebook.com/stephen.nadar.735" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://m.facebook.com/stephen.nadar.735" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/stephenarputharaj7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/stephenarputharaj7/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/c/yeshuaelshaddai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/c/yeshuaelshaddai" height="30" width="40" /></a>
-<a href="https://discord.gg/Stephen Nadar#3024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Stephen Nadar#3024" height="30" width="40" /></a>
+<a href="https://discord.gg/Stephen Nadar#3024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Stephen Nadar#3024" height="30" width="40" />
+<a href="https://app.daily.dev/StepJes"><img src="https://api.daily.dev/devcards/1897c902a29d46a2b1e4a7f272bf5203.png?r=trb" width="400" alt="Stephen Nadar's Dev Card"/>
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
