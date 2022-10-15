@@ -23,6 +23,8 @@ _A IT Student_ <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy-downs
 [![GitHub Followers](https://img.shields.io/github/followers/StepJes?label=Github%20Followers&logo=github&style=flat-square)](https://github.com/StepJes)
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/3kh0?label=Sponsors&logo=githubsponsors&style=flat-square)](https://github.com/StepJes)
 [![GitHub User's stars](https://img.shields.io/github/stars/3kh0?color=yellow&label=User%20Stars&style=flat-square&logo=github&logoColor=yellow)](https://github.com/StepJes)
+[![My Youtube](https://img.shields.io/youtube/channel/subscribers/UCLlXfSNQbFPX1seBpGWaMWg?color=%23ff0000&label=YT%20Subscribers&logo=Youtube&logoColor=%23ff0000&style=flat-square)](https://www.youtube.com/channel/UCLlXfSNQbFPX1seBpGWaMWg)
+https://api.github.com/StepJes/<STEPHEN-NADAR>/repos
 <br/>
 
 <h3 align='left'>
@@ -141,69 +143,7 @@ _A IT Student_ <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy-downs
 <br />
 
 <br />
-
----
-
-## 👱🏼 Some Of My Best and Awesome Projects 🚀-
-
-  <br />
-  <table>
-    <thead align="center">
-      <tr border: none;>
-        <td><b>💻 Projects</b></td>
-        <td><b>🌟 Stars</b></td>
-        <td><b>🍴 Forks</b></td>
-        <td><b>🐛 Issues</b></td>
-        <td><b>🔔 Pull Requests</b></td>
-        <td><b>👨‍💻 Language</b></td>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-	      <td><a href="https://github.com/StepJes/StepJes"><b>🚀 StepJes</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/StepJes/StepJes?style=flat-square&label=Stars&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/StepJes/StepJes?style=flat-square&label=Forks&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/StepJes/StepJes?style=flat-square&label=Issues"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/StepJes/StepJes?style=flat-square&label=Pull%20Requests"/></td>
-        <td><img alt="Language" src="https://img.shields.io/badge/Markdown-100.0%25-blue?style=flat-square"/></td>
-      </tr>
-      <td><a href="https://github.com/StepJes/Npx-Card"><b>🔑 Random Password Generator</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/StepJes/Random-Password-Generator-App?style=flat-square&label=Stars&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/StepJes/Random-Password-Generator-App?style=flat-square&label=Forks&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/StepJes/Random-Password-Generator-App?style=flat-square&label=Issues"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/StepJes/Random-Password-Generator-App?style=flat-square&label=Pull%20Requests"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/StepJes/Random-Password-Generator-App?label=CSS&style=flat-square"/></td>
-      <tr>
-	      <td><a href="https://github.com/StepJes/Npx-Card"><b>💸 Npx- Business Card</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/StepJes/Npx-Card?style=flat-square&label=Stars&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/StepJes/Npx-Card?style=flat-square&label=Forks&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/StepJes/Npx-Card?style=flat-square&label=Issues"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/StepJes/Npx-Card?style=flat-square&label=Pull%20Requests"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/StepJes/Npx-Card?label=Javascript&style=flat-square"/></td>
-      </tr>
-      <tr>
-	      <td><a href="https://github.com/StepJes/Project-38"><b>👨🏻‍💻 Bob The Robber Game</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/StepJes/Project-38?style=flat-square&label=Stars&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/StepJes/Project-38?style=flat-square&label=Forks&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/StepJes/Project-38?style=flat-square&label=Issues"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/StepJes/Project-38?style=flat-square&label=Pull%20Requests"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/StepJes/Project-38?style=flat-square&label=Javascript"/></td> 
-      </tr>
-      <tr>
-	      <td><a href="https://github.com/StepJes/Project-28"><b>😋 Plucking Mangoes Game</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/StepJes/Project-28?style=flat-square&label=Stars&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/StepJes/Project-28?style=flat-square&label=Forks&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/StepJes/Project-28?style=flat-square&label=Issues"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/StepJes/Project-28?style=flat-square&label=Pull%20Requests"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/StepJes/Project-28?style=flat-square&label=Javascript"/></td> 
-      </tr>
-    </tbody>
-  </table>
-  <br />
-
----
-
-<h1 align="center">My Programming, WakaTime, Github and Youtube Stats</h1>
+<h1 align="center">My Programming and Github Stats</h1>
 
  <details> 
 <summary> <img align="left" alt="Laptop Logo" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Computer.svg"/> <b>:zap: Programming Stats :zap:</b>: </summary>
@@ -213,7 +153,7 @@ _A IT Student_ <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy-downs
 
 ![Code Time](http://img.shields.io/badge/Code%20Time-40%20hrs%2059%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/tokei/lines/github/StepJes/StepJes?color=blue&label=Lines%20of%20Code%20since%20First%20Hello%20World%21%21%21&logoColor=white)
 
 **🐱 My GitHub Data**
 
@@ -223,99 +163,40 @@ _A IT Student_ <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy-downs
 >
 > 🚫 Not Opted to Hire
 >
-> 📜 55 Public Repositories
+> 📜 Public Repositories
 >
 > 🔑 1 Private Repository
->
-> **I'm an Early 🐤**
 
-```text
-🌞 Morning    53 commits     ████████░░░░░░░░░░░░░░░░░   32.12%
-🌆 Daytime    82 commits     ████████████░░░░░░░░░░░░░   49.7%
-🌃 Evening    30 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.18%
-🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-```
-
-📅 **I'm Most Productive on Sunday**
-
-```text
-Monday       30 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.18%
-Tuesday      35 commits     █████░░░░░░░░░░░░░░░░░░░░   21.21%
-Wednesday    23 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.94%
-Thursday     30 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.18%
-Friday       5 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.03%
-Saturday     6 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.64%
-Sunday       36 commits     █████░░░░░░░░░░░░░░░░░░░░   21.82%
-
-```
-
-📊 **This Week I Spent My Time On**
+📊 **I Spent My Time On**
 
 ```text
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages:
-No Activity Tracked This Week
+Java, Python, C, C++, Julia, HTML, CSS, JavaScript
 
 🔥 Editors:
-No Activity Tracked This Week
+Eclipse, VS Code, Notepad++
 
 🐱‍💻 Projects:
-No Activity Tracked This Week
+Desktop Assistant Sandra, ACH
 
 💻 Operating System:
-No Activity Tracked This Week
+Windows 11
 
 ```
-
-**I Mostly Code in JavaScript**
-
-```text
-JavaScript               41 repos            █████████████████████░░░░   83.67%
-CSS                      5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.2%
-HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.12%
-
-```
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/StepJes/StepJes/master/charts/bar_graph.png)
-
-Last Updated on 01/10/2022 01:13:41 UTC
 
 <!--END_SECTION:waka-->
 
 </details>
 
 <details>
-  <summary> 
-  <b>:zap: WakaTime Stats <img align="left" alt="Wakatime Logo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/wakatime.svg" /> :zap:</b>: </summary>
-<br />
-
-<img src='https://github-readme-stats.vercel.app/api/wakatime?username=@StepJes' 
-align = left/>
-
-<img src='https://github-readme-stats.vercel.app/api/wakatime?username=@StepJes&theme=dark&layout=compact'
-align = left/>
-
-</details>
-
-<details>
-  <summary> <img align="left" alt="Github Logo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/github.svg" /> <b>:zap: GitHub Stats :zap:</b>: </summary>
+  <summary> <img align="left" alt="Github Logo" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/640px-Github-desktop-logo-symbol.svg.png" /> <b>:zap: GitHub Stats :zap:</b>: </summary>
 <br />
 <div align="center">
 
 <img src='https://raw.githubusercontent.com/StepJes/StepJes/master/profile-summary-card-output/github_dark/0-profile-details.svg'
 align = "left" />
-
-<img src ='https://raw.githubusercontent.com/StepJes/StepJes/master/profile-summary-card-output/github/1-repos-per-language.svg' />
-
-<img src = 'https://raw.githubusercontent.com/StepJes/StepJes/master/profile-summary-card-output/github/2-most-commit-language.svg' />
-
-<img src = 'https://raw.githubusercontent.com/StepJes/StepJes/master/profile-summary-card-output/nord_dark/3-stats.svg' />
-
-<img src = 'https://raw.githubusercontent.com/StepJes/StepJes/master/profile-summary-card-output/nord_dark/4-productive-time.svg' />
 
 <img src='https://github-readme-stats.vercel.app/api?username=StepJes&show_icons=true&theme=radical&count_private=true&border_color=2e4058&line_height=40'  
 align="left" />
@@ -331,19 +212,7 @@ align="left" />
 </div>
 </details>
 
-<details>
-  <summary> <img align="left" alt="Github Logo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/github.svg" /> <b>:zap: Recent GitHub Activity :zap:</b>: </summary>
-
-  <!--START_SECTION:activity-->
-
-1. ❌ Closed PR [#1](https://github.com/StepJes/StepJes/pull/1) in [StepJes/StepJes](https://github.com/StepJes/StepJes)
-2. 🎉 Merged PR [#2](https://github.com/StepJes/StepJes/pull/2) in [StepJes/StepJes](https://github.com/StepJes/StepJes)
-3. 🗣 Commented on [#2](https://github.com/StepJes/StepJes/issues/2) in [StepJes/StepJes](https://github.com/StepJes/StepJes)
-4. 🗣 Commented on [#1](https://github.com/Educational-Websites/Contributors/issues/1) in [Educational-Websites/Contributors](https://github.com/Educational-Websites/Contributors)
-5. 🗣 Commented on [#1](https://github.com/Educational-Websites/Contributors/issues/1) in [Educational-Websites/Contributors](https://github.com/Educational-Websites/Contributors)
-<!--END_SECTION:activity-->
-
-</details>
+---
 
 ## Some Programming Quote & Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
 
@@ -352,13 +221,7 @@ align="left" />
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 [![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)](https://github.com/StepJes)
 
-[![Stargazers repo roster for @StepJes/StepJes](https://reporoster.com/stars/dark/StepJes/StepJes)](https://github.com/StepJes/StepJes/stargazers)
-
-[![Forkers repo roster for @StepJes/StepJes](https://reporoster.com/forks/dark/StepJes/StepJes)](https://github.com/StepJes/StepJes/network/members)
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=016EEA&size=60&center=true&vCenter=true&width=900&height=100&lines=Thanks+For+Visiting+My+Profile!!.;Visit+Again!...)](https://github.com/StepJes)
-
-## Show Some ❤️ by Starring or Forking Some of My Repositories 🙏🙏!
 
 <br>
 
@@ -368,20 +231,8 @@ align="left" />
 
 </details>
 
-[website]: https://aaryanbizoara.whjr.site/
-[refferal]: https://whjr.co/5yrU7
+[website]: https://stephennadar62.wixsite.com/stepjes7/
 [octoprofile]: https://octoprofile.vercel.app/user?id=StepJes
-[youtube]: https://www.youtube.com/channel/UC5kSlDs_uZs6mr-GeJfC8tg
-[twitch]: https://twitch.tv/crazysnapshotgamer99
-[twitter]: https://twitter.com/CrzSnapshotGamr
-[roblox]: https://web.roblox.com/users/1992108766/profile
-[discord]: https://discord.gg/4CpjK2vveY
-[spotify]: https://open.spotify.com/user/3rpxiap4czveo8clwzcqaf68e
-
-<!-- 
-https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg
-
-https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg
-
-https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg -->
-
+[youtube]: https://www.youtube.com/channel/UCLlXfSNQbFPX1seBpGWaMWg
+[twitter]: https://twitter.com/stephennadar007
+[discord]: https://discord.com/channels/1025816301131800730/1025816302381694977
