@@ -65,11 +65,7 @@
    <a href="https://julialang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/julia/julia-original.svg" alt="julia" width="40" height="40"/> </a>
    <br/>
 
-
-
-
-
-
+   
 
 <h4>Technologies Used</h4>
 <a href="https://httpd.apache.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg" alt="apache" width="40" height="40"/> </a>
@@ -87,10 +83,6 @@
 
 
 <br/>
-
-
-
-
 
 
 
@@ -194,15 +186,15 @@
 
 **🐱 My GitHub Data**
 
-> 🏆 0 Contributions in the Year 2022
+> 🏆 Contributions in the Year ![Contributions in the Current Year](https://github-readme-stats.vercel.app/api?username=StepJes&count_private=true&show_icons=true&theme=radical&hide=prs&include_all_commits=true&hide_title=true&hide_rank=true)
 >
-> 📦 94.5 kB Used in GitHub's Storage
+> 📦 94.5 kB Used in GitHub's Storage ![GitHub Profile Size](https://github-size.vercel.app/api?username=StepJes&label=Profile%20Size)
 >
-> 🚫 Not Opted to Hire
+> 🌱 Open to job opportunities
 >
-> 📜 Public Repositories
+> 📜 Public Repositories ![Public Repositories](https://img.shields.io/github/repos/StepJes?label=Public%20Repositories)
 >
-> 🔑 1 Private Repository
+> 🔑 1 Private Repository ![Private Repositories](https://img.shields.io/badge/Private%20Repos-1-blue)
 
 📊 **I Spent My Time On**
 
