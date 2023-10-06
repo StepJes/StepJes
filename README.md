@@ -16,9 +16,9 @@
 
 [![Visits](https://komarev.com/ghpvc/?username=StepJes&label=Github%20Profile%20Visits&color=6E5494&logo=github&style=flat-square)](https://github.com/StepJes)
 [![Blogspot](https://img.shields.io/badge/Blogspot-dd8226.svg?logo=linkedin&logoColor=white)](https://stepjes7.blogspot.com/?m=1)
-[![Website](https://img.shields.io/website?label=My%20Website&logo=Google-Chrome&logoColor=white&style=flat-square&url=https://stephennadar62.wixsite.com/stepjes7/)](https://stephennadar62.wixsite.com/stepjes7/)
+[![Website](https://img.shields.io/website?label=My%20Website&logo=Google-Chrome&logoColor=white&style=flat-square&url=https://www.stephennadar.com)](https://www.stephennadar.com)
 [![My Youtube](https://img.shields.io/youtube/channel/subscribers/UCLlXfSNQbFPX1seBpGWaMWg?color=%23ff0000&label=YT%20Subscribers&logo=Youtube&logoColor=%23ff0000&style=flat-square)](https://www.youtube.com/channel/UCLlXfSNQbFPX1seBpGWaMWg)
-[![Twitter Follow](https://img.shields.io/twitter/follow/stephennadar007?color=1DA1F2&label=Follow%20Me&logo=twitter&style=flat-square)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAbout-Me&screen_name=stephennadar007)
+[![Twitter Follow](https://img.shields.io/twitter/follow/istephennadar?color=1DA1F2&label=Follow%20Me&logo=twitter&style=flat-square)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAbout-Me&screen_name=istephennadar)
 [![GitHub Followers](https://img.shields.io/github/followers/StepJes?label=Github%20Followers&logo=github&style=flat-square)](https://github.com/StepJes)
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/3kh0?label=Sponsors&logo=githubsponsors&style=flat-square)](https://github.com/StepJes)
 [![GitHub User's stars](https://img.shields.io/github/stars/3kh0?color=yellow&label=User%20Stars&style=flat-square&logo=github&logoColor=yellow)](https://github.com/StepJes)
@@ -147,7 +147,7 @@
  - ✈ In Future, I’m Looking to get a Job in Google.
  - ❤️ Support Me and Follow Me In Social Media
  - 😉 So, Check Out My Repositories and Projects. Hope You Enjoy !!!
- - 📫 How to reach me **stephennadar99@gmail.com**
+ - 📫 How to reach me **connect.stephennadar@gmail.com**
 
 ---
 
@@ -159,8 +159,8 @@
 
 <p align="left">
 <a href="https://dev.to/https://app.daily.dev/stepjes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://app.daily.dev/stepjes" height="30" width="40" /></a>
-<a href="https://twitter.com/stephennadar007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="stephennadar007" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/stephen-nadar-stepjes777/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/stephen-nadar-stepjes777/" height="30" width="40" /></a>
+<a href="https://twitter.com/istephennadar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="istephennadar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/istephennadar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/istephennadar/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/17457889/stephen-nadar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/17457889/stephen-nadar" height="30" width="40" /></a>
 <a href="https://fb.com/https://m.facebook.com/stephen.nadar.735" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://m.facebook.com/stephen.nadar.735" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/stephenarputharaj7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/stephenarputharaj7/" height="30" width="40" /></a>
