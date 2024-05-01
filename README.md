@@ -11,7 +11,7 @@
 <img align='right' src="https://api.daily.dev/devcards/1897c902a29d46a2b1e4a7f272bf5203.png?r=trb" width="300" height="395">
 <h3 align="left">A Passionate Developer from भारत (India)</h3>
 
-<b> A IT Student </b><img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy-downsized.gif" width="50">
+<b> Software Development Engineer </b><img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy-downsized.gif" width="50">
 </em></p>
 
 [![Visits](https://komarev.com/ghpvc/?username=StepJes&label=Github%20Profile%20Visits&color=6E5494&logo=github&style=flat-square)](https://github.com/StepJes)
@@ -135,9 +135,9 @@
 
 <img align="left" alt="GIF-1" width="370px" height="370px" src="https://github.com/keshavsingh4522/keshavsingh4522/blob/master/Assets/Monkey_Kid_Coding.gif" />
 
-## I'm A Student, Developer, Gamer and a Learner!!!
+## I'm A Software Development Engineer, YouTuber and a Learner!!!
 
- - 👱🏼 Hey, I am Stephen Nadar, a Java Developer.
+ - 👱🏼 Hey, I am Stephen Nadar, Full Stack Java Developer.
  - 😄 Adjectives: Coder, Leader and Kind Hearted
  - 🌈 I Like Coding, Video and Audio Editing, YouTubing, Playing Music and Guitar.
  - ⚡ Cravings: Food, Travelling and Playing Games
