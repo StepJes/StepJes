@@ -158,7 +158,7 @@
 ## Connect With Me Through:
 
 <p align="left">
-<a href="https://dev.to/https://app.daily.dev/stepjes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://app.daily.dev/stepjes" height="30" width="40" /></a>
+<a href="https://dev.to/https://app.daily.dev/stephennadar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://app.daily.dev/stepjes" height="30" width="40" /></a>
 <a href="https://twitter.com/istephennadar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="istephennadar" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/istephennadar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/istephennadar/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/17457889/stephen-nadar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/17457889/stephen-nadar" height="30" width="40" /></a>
@@ -255,7 +255,7 @@ align="left" />
 
 </details>
 
-[website]: https://stephennadar62.wixsite.com/stepjes7/
+[website]: https://stephennadar.dev/
 [octoprofile]: https://octoprofile.vercel.app/user?id=StepJes
 [youtube]: https://www.youtube.com/channel/UCLlXfSNQbFPX1seBpGWaMWg
 [twitter]: https://twitter.com/stephennadar007
